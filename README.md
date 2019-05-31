@@ -7,7 +7,7 @@
 
 
 # # screenshots
-![ex1](images/example1.png)<br>
-![ex2](images/example2.png)<br>
-![ex3](images/example3.png)<br>
-![ex4](images/example4.png)
+<img src="images/example1.png" width="400" height="500" hspace="17"> <img src="images/example2.png" width="400" height="500" hspace="17"><br><br><br><br><br>
+<img src="images/example3.png" width="400" height="500" hspace="17"> <img src="images/example4.png" width="400" height="500" hspace="17">
+
+
